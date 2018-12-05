@@ -1,1 +1,2 @@
-# NotesForJava
+# Initial page
+

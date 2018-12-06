@@ -1,2 +1,4 @@
-# Initial page
+# JAVA学习笔记
+## 基础
+
 

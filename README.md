@@ -7,6 +7,6 @@
   * [函数](https://github.com/Ansonnnnn/NotesForJava/blob/master/%E8%AF%AD%E6%B3%95%E5%9F%BA%E7%A1%80/1.4%20%E5%87%BD%E6%95%B0.md)
   * [数组](https://github.com/Ansonnnnn/NotesForJava/blob/master/%E8%AF%AD%E6%B3%95%E5%9F%BA%E7%A1%80/1.5%20%E6%95%B0%E7%BB%84.md)
     
-    未完待续..
+未完待续..
 
 

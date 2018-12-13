@@ -1,6 +1,6 @@
 # JAVA学习笔记
 # 目录
-> **语法基础（）**
+> **语法基础（Syntax）**
   * [概论](https://github.com/Ansonnnnn/NotesForJava/blob/master/Syntax/1.1%20概论.md)
   * [语言基础组成](https://github.com/Ansonnnnn/NotesForJava/blob/master/Syntax/1.2%20语言基础组成.md)
   * [程序流程控制](https://github.com/Ansonnnnn/NotesForJava/blob/master/Syntax/1.3%20程序流程控制.md)
